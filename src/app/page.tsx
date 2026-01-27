@@ -68,7 +68,7 @@ export default function Home() {
 
         {/* Footer เล็กๆ */}
         <div className="pt-8 text-xs text-gray-400 opacity-80">
-          <p>Version 1.0.0 • Updated 2024</p>
+          <p>Version 1.0.0 • Updated 2025</p>
           <p>Secure Download • Verified by Google Drive And Mediafile</p>
         </div>
 
