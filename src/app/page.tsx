@@ -70,7 +70,11 @@ export default function Home() {
         <div className="pt-8 text-xs text-gray-400 opacity-80">
           <p>Version 1.0.0 • Updated 2025</p>
           <p>Secure Download • Verified by Google Drive And Mediafile</p>
+          <hr />
+          <p>Copyright C 2016. Department of Computer, CMRU. All rights reserved.</p>
+            ** เว็บไซต์นี้มีไว้เพื่อการศึกษาของนศ.ในรายวิชาการศึกษาอิสระเท่านั้น **
         </div>
+        
 
       </div>
     </main>
