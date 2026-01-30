@@ -71,7 +71,7 @@ export default function Home() {
           <p>Version 1.0.0 • Updated 2025</p>
           <p>Secure Download • Verified by Google Drive And Mediafile</p>
           <hr />
-          <p>Copyright C 2016. Department of Computer, CMRU. All rights reserved.</p>
+          <p>Copyright C 2025. Department of Computer, CMRU. All rights reserved.</p>
             ** เว็บไซต์นี้มีไว้เพื่อการศึกษาของนศ.ในรายวิชาการศึกษาอิสระเท่านั้น **
         </div>
         
